@@ -8,3 +8,5 @@ Clothig Retail Project: The clothing retail company wants to expand their busine
 Animations: Analyzing Life Expectancy, Fertility rate and Population of about 200 countries from 1960 to 2013 with showing behavior of countries through Animations.
 
 Level Of Detailed Calculations: The challenge is to create dual axis map thats shows Average profit across cities alongwith state profits, and different cities' contribution towards state profit.
+
+MeetingRoomsAnalysis: The challenge is to analyze the booked utilisation vs. actual utilisation of all meeting rooms for a law firm. The staff is complaining there is shortage of meeting rooms but the firm members say that the actual utilization of meeting rooms is very low.
